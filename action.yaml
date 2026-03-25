@@ -20,11 +20,11 @@ inputs:
     required: true
     secret: true
   force:
-    description: "Will not ask for confirmation on deletes or overwrites"
+    description: "Continue publishing even if breaking changes or validation errors are detected."
     required: false
     default: "false"
   wait-for-approval:
-    description: "Wait for approval"
+    description: "Require approval in the Nitro UI to continue publishing when breaking changes or validation errors are detected."
     required: false
     default: "false"
   cloud-url:

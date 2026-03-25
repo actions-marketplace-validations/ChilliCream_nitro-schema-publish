@@ -2,7 +2,7 @@ name: "Nitro Schema Publish"
 description: "Publishes GraphQL schemas to the Nitro registry"
 author: "ChilliCream"
 branding:
-  icon: "upload-cloud"
+  icon: "send"
   color: "blue"
 
 inputs:

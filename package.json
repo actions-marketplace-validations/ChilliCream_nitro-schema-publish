@@ -1,6 +1,6 @@
 {
   "name": "@chillicream/nitro-schema-publish",
-  "version": "16.0.0-rc.1.23",
+  "version": "16.7.0-p.1",
   "type": "module",
   "repository": {
     "type": "git",
@@ -23,6 +23,6 @@
     "@actions/exec": "^3.0.0",
     "@actions/github": "^9.0.0",
     "@actions/tool-cache": "^4.0.0",
-    "@chillicream/nitro-github-actions": "0.0.3"
+    "@chillicream/nitro-github-actions": "0.0.5"
   }
 }

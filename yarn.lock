@@ -79,15 +79,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@chillicream/nitro-github-actions@npm:0.0.3":
-  version: 0.0.3
-  resolution: "@chillicream/nitro-github-actions@npm:0.0.3"
+"@chillicream/nitro-github-actions@npm:0.0.5":
+  version: 0.0.5
+  resolution: "@chillicream/nitro-github-actions@npm:0.0.5"
   peerDependencies:
     "@actions/core": ^3.0.0
     "@actions/exec": ^3.0.0
     "@actions/github": ^9.0.0
     "@actions/tool-cache": ^4.0.0
-  checksum: 10c0/1423cff7ad7c97aed4d2f273b32dfd5ac7557e44147700743afe534387f939191bad9909ca107fa57734f9b2d8044590fcb4190feeccaa429d5f89f613498613
+  checksum: 10c0/dfed51f74f1bea3ded32c420af1e5a194850f2f2bb5ffa0dade43b90f8e094b1657598c6f1a0d1b4d145540ad8e43ce36425c359336bbb619e3f3a6f8b6ec67d
   languageName: node
   linkType: hard
 
@@ -99,7 +99,7 @@ __metadata:
     "@actions/exec": "npm:^3.0.0"
     "@actions/github": "npm:^9.0.0"
     "@actions/tool-cache": "npm:^4.0.0"
-    "@chillicream/nitro-github-actions": "npm:0.0.3"
+    "@chillicream/nitro-github-actions": "npm:0.0.5"
     "@types/node": "npm:^22.0.0"
     "@vercel/ncc": "npm:^0.38.4"
     typescript: "npm:^5.9.3"
